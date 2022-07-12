@@ -1,0 +1,9 @@
+Package: nehyci.testflightnothinning
+Name: TestFlightNoThinning
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Disable TestFlight AppThinning.
+Maintainer: nehyci
+Author: nehyci
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
